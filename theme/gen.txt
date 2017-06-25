@@ -1,4 +1,0 @@
-/footer@footer
-/header@header
-/post@post
-/navbar@navbar
